@@ -1,3 +1,0 @@
-D:\Work\Git\Tank\Source\Tank\Tank.Build.cs
-D:\Work\Git\Tank\Source\Tank.Target.cs
-D:\Work\Git\Tank\Source\TankEditor.Target.cs
